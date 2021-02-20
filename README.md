@@ -1,6 +1,6 @@
 ## Firebase Contact Form
 
-### Add your firebase project credentials in main.js file
+### Add your firebase project credentials in script.js file
 
  ```sh
 var config = {
